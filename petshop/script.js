@@ -1,4 +1,3 @@
-/* Script FORMULARIO */
 
 const $btnSignIn= document.querySelector('.sign-in-btn'),
       $btnSignUp = document.querySelector('.sign-up-btn'),  
